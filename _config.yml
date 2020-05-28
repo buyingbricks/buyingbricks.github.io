@@ -25,7 +25,6 @@ description: BuyingBricks helps you buy LEGO bricks for the right price. We prov
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: buyingbricks
-github_username:  buyingbricks
 
 # Build settings
 theme: minima
