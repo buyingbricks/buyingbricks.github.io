@@ -30,7 +30,7 @@ twitter_username: buyingbricks
 theme: minima
 plugins:
   - jekyll-feed
-
+encoding: utf-8
 google_analytics: UA-167357335-1
 show_excerpts: true
 excerpt_separator: <!--more-->
