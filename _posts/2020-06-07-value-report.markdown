@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Value report for the week of June 07"
+title:  "Suggested part-out sets for the week of June 07"
 date:   2020-06-07 13:03:14 +0200
 categories: valuereport
 ---
